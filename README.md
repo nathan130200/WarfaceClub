@@ -1,6 +1,5 @@
 # Warface Club
-Repositório do bot oficial da comunidade Warface Club
-
+Repositório do bot oficial da comunidade Warface Club - <img src="https://img.shields.io/discord/721970045835804732.svg?label=discord" />
 
 ### Discord
-<iframe src="https://discord.com/widget?id=721970045835804732&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+<a href="https://discord.com/invite/ucvj63u"><img src="https://discord.com/api/guilds/721970045835804732/embed.png?style=banner2"></img></a>
